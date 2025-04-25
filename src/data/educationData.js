@@ -16,7 +16,7 @@ export const educationData = [
     period: "09/2007 – 04/2009",
     description: "Formación en administración y mantenimiento de sistemas informáticos, redes y soporte a usuarios.",
     logo: "/assets/images/education/ies-logo.png", // Placeholder
-    institutionLink: "https://www.iesarquitectoventurarod.es/",
+    institutionLink: "././https://www.iesarquitectoventurarod.es/",
     skills: ["Sistemas Operativos", "Redes", "Hardware", "Soporte técnico"]
   },
   {
@@ -25,7 +25,7 @@ export const educationData = [
     institution: "Formación complementaria",
     period: "07/2022",
     description: "Curso especializado en desarrollo web con Spring Boot y MySQL, enfocado en la creación de aplicaciones web robustas y escalables.",
-    logo: "/assets/images/education/logo-udemy.png", // Placeholder
+    logo: "././assets/images/education/logo-udemy.png", // Placeholder
     institutionLink: "#",
     skills: ["Spring Boot", "MySQL", "REST API", "JPA"]
   },
@@ -35,7 +35,7 @@ export const educationData = [
     institution: "Formación complementaria",
     period: "07/2022",
     description: "Curso avanzado sobre arquitectura de microservicios con Spring Cloud y desarrollo frontend con Angular.",
-    logo: "/assets/images/education/logo-udemy.png", // Placeholder
+    logo: "././assets/images/education/logo-udemy.png", // Placeholder
     institutionLink: "#",
     skills: ["Microservicios", "Spring Cloud", "Eureka", "Angular", "Full-Stack"]
   }

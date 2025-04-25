@@ -16,7 +16,7 @@ export const projectData = [
       
       El proyecto utiliza una arquitectura moderna con Spring Boot para el backend, React para el frontend, y está diseñado siguiendo los principios de microservicios.
     `,
-    image: "/assets/images/projects/candidaturas.jpg", // Placeholder
+    image: "././assets/images/projects/candidaturas.jpg", // Placeholder
     technologies: ["Java", "Spring Boot", "React", "MySQL", "REST API", "JWT", "Hibernate"],
     demoLink: null, // Si no hay demo desplegada aún
     repoLinks: [
@@ -48,7 +48,7 @@ export const projectData = [
       
       El proyecto está estructurado siguiendo buenas prácticas de desarrollo, con componentes reutilizables y un sistema de estilos coherente.
     `,
-    image: "/assets/images/projects/portfolio.jpg", // Placeholder
+    image: "././assets/images/projects/portfolio.jpg", // Placeholder
     technologies: ["React", "Styled Components", "Framer Motion", "React Router", "JavaScript"],
     demoLink: "https://gianberninzon.github.io/PortfolioReact/", // La URL de tu GitHub Pages
     repoLinks: [
