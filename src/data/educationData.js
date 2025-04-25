@@ -15,7 +15,7 @@ export const educationData = [
     institution: "IES Arquitecto Ventura Rodríguez",
     period: "09/2007 – 04/2009",
     description: "Formación en administración y mantenimiento de sistemas informáticos, redes y soporte a usuarios.",
-    logo: "/assets/images/education/ies-logo.png", // Placeholder
+    logo: "././assets/images/education/ies-logo.png", // Placeholder
     institutionLink: "././https://www.iesarquitectoventurarod.es/",
     skills: ["Sistemas Operativos", "Redes", "Hardware", "Soporte técnico"]
   },
