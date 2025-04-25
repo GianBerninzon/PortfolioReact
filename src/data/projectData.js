@@ -22,11 +22,11 @@ export const projectData = [
     repoLinks: [
       { 
         name: "Backend (Spring Boot)", 
-        url: "https://github.com/GianBerninzon/job-tracker-api" 
+        url: "https://github.com/GianBerninzon/gestion-candidaturas" 
       },
       { 
         name: "Frontend (React)", 
-        url: "https://github.com/GianBerninzon/job-tracker-client" 
+        url: "https://github.com/GianBerninzon/gestion-candidaturas-frontend" 
       }
     ],
     featured: true,
